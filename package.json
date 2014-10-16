@@ -1,0 +1,19 @@
+{
+  "name": "forcejs",
+  "version": "1.0.0",
+  "description": "ForceJS is a micro-library that makes it easy to use the Salesforce REST APIs in JavaScript applications.  ForceJS allows you to easily login into Salesforce using OAuth, and to manipulate your Salesforce data using a simple  API.",
+  "main": "force.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddhalfpenny/forcejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toddhalfpenny/forcejs/issues"
+  },
+  "homepage": "https://github.com/toddhalfpenny/forcejs#readme"
+}
